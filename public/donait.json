@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Health.png",
+    "title": "Quenching Thirst, Nurturing Futures: Donate for Clean Water for Children",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#0052FF",
+    "description": "In a world where clean water is a basic necessity, millions of children still lack access to this fundamental resource. Join us in this blog post as we delve into the critical issue of clean water scarcity among children and how your donations can make a life-changing difference. Discover inspiring stories of resilience, explore the far-reaching impacts of clean water initiatives, and find out how you can be a part of this vital mission. Together, we can ensure that every child has the chance to grow, learn, and dream, unburdened by the scourge of waterborne diseases. Join us today in the journey to quench their thirst and nurture their futures. Don't miss the opportunity to be a part of something truly transformative—donate for clean water for children now!",
+    "price": "$300.00"
+  },
+  {
+    "id": 2,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$400.00"
+  },
+  {
+    "id": 3,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Clothing.png",
+    "title": "Donate Clothing to Bring Comfort to the Needy",
+    "category": "Clothing",
+    "category_bg_color": "#79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#79C23F",
+    "description": "In this heartwarming blog post, we delve into the powerful act of donating clothing to provide comfort and dignity to those less fortunate. Explore the profound impact of clothing donations and how they can make a world of difference in the lives of individuals struggling to meet their basic needs. Join us as we shed light on the importance of sharing warmth and hope through your generosity. Discover how your donation of gently used or new clothing items can bring a smile to someone's face, protect them from the elements, and restore their sense of self-worth. Together, let's embrace the spirit of giving and extend a helping hand to those in need. Donate today and be a part of the collective effort to warm hearts and make a positive change in the lives of the less fortunate.",
+    "price": "$200.00"
+  },
+  {
+    "id": 4,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Food.png",
+    "title": " Donate Food to Feed the Hungry",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#F87147",
+    "description": "In this compassionate series of blog posts, we'll explore the incredible impact of donating food to alleviate hunger and nourish hope among those less fortunate. Join us as we dive into the significance of food donations and how they can make an immediate difference in the lives of individuals and families facing food insecurity. Discover the various ways you can contribute to food banks, shelters, and community initiatives, helping to ensure that no one goes to bed hungry. Together, let's tackle the pressing issue of hunger and be a part of a collective effort to provide sustenance, dignity, and a brighter future for those in need. Donate today and help us nourish hope in the hearts of the hungry.",
+    "price": "$650.00"
+  },
+  {
+    "id": 5,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Food.png",
+    "title": "BFighting Hunger with Compassion: Your Food Donation Matters",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#F87147",
+    "description": "Explore the critical role that food donations play in combating hunger and food insecurity. Learn about the impact of your contributions on local food banks, soup kitchens, and shelters, and discover how even small donations can make a big difference in the lives of those struggling to put food on their tables.",
+    "price": "$650.00"
+  },
+  {
+    "id": 6,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Clothing.png",
+    "title": "Donate Clothing to Empower the Less Fortunate",
+    "category": "Clothing",
+    "category_bg_color": "#79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#79C23F",
+    "description": "In this empowering blog post, we invite you to be a part of a transformative journey that revolves around the act of donating clothing to uplift the less fortunate. Discover the incredible impact of clothing donations and how they can empower individuals with confidence and opportunity. Join us as we highlight the importance of providing appropriate attire for job interviews, educational pursuits, and everyday life. Learn how your donation of clothing items can be the key to unlocking a brighter future for those facing economic hardships. Together, let's embrace the philosophy of dress for success and help individuals take meaningful steps towards self-sufficiency and a more promising tomorrow. Donate today and become a catalyst for positive change in the lives of those striving for a better future.",
+    "price": "$200.00"
+  },
+  {
+    "id": 7,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Education.png",
+    "title": "The key to a better future",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#FF444A",
+    "description": "Education is the foundation for a successful and fulfilling life. It empowers us to reach our full potential and make a positive impact on the world. But for millions of children around the world, access to quality education is out of reach. That's why education-related donations are so important. When you donate to an education charity, you're helping to provide children with the resources they need to succeed. Your donation can help to purchase school supplies, build new schools, and train teachers. It can also help to provide scholarships to students who would otherwise be unable to afford to go to school.",
+    "price": "$400.00"
+  },
+  {
+    "id": 8,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Health.png",
+    "title": "Donate to Construct a Hospital for Better Health",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#0052FF",
+    "description": "In this blog post, we embark on a journey that transcends bricks and mortar, one that aspires to build not just a hospital but also hope, healing, and a healthier future for all. Discover the profound impact of healthcare facility donations and how they can transform communities, save lives, and provide access to essential medical services. Join us as we explore the vision of constructing a hospital dedicated to better health and how your donation can be the cornerstone of this life-changing initiative. Together, let's lay the foundation for a brighter, healthier tomorrow by contributing to the construction of a hospital that will serve as a beacon of care, compassion, and hope for generations to come. Donate today and be a part of this remarkable journey towards building a brighter and healthier world.",
+    "price": "$300.00"
+  },
+  {
+    "id": 9,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Health.png",
+    "title": "Donate to Construct a Community Hospital",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#0052FF",
+    "description": "In this blog post, we invite you to be a part of a remarkable journey that aims to build not just a hospital but healthier futures for entire communities. Explore the transformative potential of healthcare facility donations and how they can bring accessible and quality healthcare services to those who need it most. Join us as we envision the construction of a community hospital that will serve as a lifeline, offering care, comfort, and hope to countless individuals. Learn how your donation can make a lasting impact on the well-being of families and individuals in need, paving the way for a healthier and more resilient community. Together, let's come together to construct a hospital that will stand as a symbol of health, healing, and unity for generations to come. Donate today and be a part of building a healthier and brighter future for all.",
+    "price": "$300.00"
+  },
+  {
+    "id": 10,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Education.png",
+    "title": "Unlocking Brighter Futures: Donate for Education Today",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#FF444A",
+    "description": "In a world where knowledge is power, education is the key to unlocking brighter futures for individuals and entire communities. Join us in this blog post as we explore the transformative impact of education-related donations and how you can make a meaningful difference by contributing to this noble cause. Discover inspiring stories of how education has changed lives, and learn about the various ways you can donate to support access to quality learning opportunities for all. Together, we can pave the way for a more educated, empowered, and prosperous world. Don't miss this chance to be a part of something truly remarkable – donate for education today!",
+    "price": "$400.00"
+  },
+  {
+    "id": 11,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Clothing.png",
+    "title": "Donate Clothing to Share Warmth and Hope",
+    "category": "Clothing",
+    "category_bg_color": "#79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#79C23F",
+    "description": "In this touching blog post, we delve into the heartwarming act of donating clothing to spread warmth and hope among those less fortunate. Discover the incredible difference that clothing donations can make in the lives of individuals facing challenging circumstances. Join us as we explore the significance of contributing gently used or new clothing items to support those in need, especially during colder seasons. Your generosity can offer protection from the elements, restore dignity, and remind people that they are not alone in their struggles. Let's come together to weave a tapestry of kindness through clothing donations. By donating today, you can be a part of a compassionate movement that helps individuals in crisis find comfort and a brighter path forward.",
+    "price": "$200.00"
+  },
+  {
+    "id": 12,
+    "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Food.png",
+    "title": "From Garden to Giving: Donating Fresh Food for a Healthier Tomorrow",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#F87147",
+    "description": "Discover the power of donating fresh produce and nutritious food items to support the well-being of underserved communities. Learn how your donation of fresh fruits, vegetables, and other wholesome foods can promote not only food security but also better health outcomes for those in need.",
+    "price": "$650.00"
+  }
+]
